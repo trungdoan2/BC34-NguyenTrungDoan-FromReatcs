@@ -1,0 +1,6 @@
+.demo_style {
+    text-align: center;
+    font-size: 100px;
+    color:red;
+    background: url('../../../public/react.png');
+}
